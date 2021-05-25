@@ -10,7 +10,7 @@
 
 #hourdiv, #mindiv, #secdiv {
     position: absolute;
-    background: black;
+    background: red;
     border-radius: 10px;
     transform-origin: bottom;
 }
